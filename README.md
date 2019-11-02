@@ -1,3 +1,9 @@
+# Python - 100天从新手到大师
+书籍原地址：[https://github.com/jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+
+请大家对原作者多多支持！
+
+
 ## Python - 100天从新手到大师
 
 > 作者：骆昊
